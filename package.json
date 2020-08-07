@@ -1,5 +1,5 @@
 {
-  "name": "qboxmail-imap",
+  "name": "imap",
   "version": "0.8.22",
   "author": "Brian White <mscdex@mscdex.net>",
   "contributor": [
@@ -41,6 +41,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/mscdex/node-imap.git"
+    "url": "https://github.com/getcitima/node-imap.git"
   }
 }
